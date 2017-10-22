@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Ardunity.unity
+  isLoaded: 1
+  isActive: 1
