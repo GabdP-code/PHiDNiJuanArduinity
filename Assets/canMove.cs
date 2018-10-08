@@ -12,7 +12,7 @@ public class canMove : MonoBehaviour {
 	public
 	void Start () {
 		stream.Open ();
-		stream.ReadTimeout = 10;
+		stream.ReadTimeout = 100;
 	}
 	
 	// Update is called once per frame
